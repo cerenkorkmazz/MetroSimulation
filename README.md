@@ -22,7 +22,7 @@ BFS, genişlik öncelikli arama yaparak en az aktarma ile hedefe ulaşan en kıs
 
 A* (En Hızlı Rota)
 
-A*, toplam maliyet (geçilen süre + tahmini kalan süre) hesaplayarak en hızlı rotayı bulur. Öncelik kuyruğu ile çalışan bu algoritma, en kısa sürede hedefe ulaşmayı sağlar. 
+A*, toplam maliyet (geçilen süre + tahmini kalan süre) hesaplayarak en hizlı rotayı bulur. Öncelik kuyruğu ile çalişan bu algoritma, en kısa sürede hedefe ulaşmayı sağlar. 
 
 Geliştirme Fikirleri
 
