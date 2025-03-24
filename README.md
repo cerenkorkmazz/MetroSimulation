@@ -10,7 +10,7 @@ Python: Temel programlama dili.
 
 heapq: A* algoritması için öncelik kuyruğu.
 
-collections: BFS algoritmasında deque yapısı.
+collections: BFS algoritmasinda deque yapısı.
 
 Graph Veri Yapısı: Metro ağı modellemesi için kullanılmıştır.
 
